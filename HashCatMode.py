@@ -616,7 +616,6 @@ def generate_hashcat_command(hash_value, hash_type):
     if mode == "Unknown mode":
         print("Could not determine Hashcat mode.")
         return None
-    # Add 'path/to/wordlist.txt' as the placeholder
     command = f"hashcat -m {mode} {hash_value} /path/to/wordlist.txt"
     return command
 
@@ -643,7 +642,6 @@ def main():
             print(f"Hash Type: {hash_type}")
             print(f"Hashcat Mode: {mode}")
 
-            # Show the command with the placeholder for the wordlist
             hashcat_command = generate_hashcat_command(hash_value, hash_type)
             if hashcat_command:
                 print(f"\nReady-to-use Hashcat command:\n\n-\n{hashcat_command}\n-")
