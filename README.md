@@ -38,8 +38,13 @@ This Python script helps identify the hash type and suggests the appropriate **H
 
 ![HashCatPreview1](https://github.com/user-attachments/assets/d725de66-b010-4f17-819f-c2d47afe78b1)
 
+## Thank You!
 
+Thank you for checking out this repository! I hope you find the **Hashcat Mode Finder** script useful in your security and password cracking endeavors.
 
+If you found this project helpful, feel free to ⭐️ it, fork it, or contribute by submitting a pull request. Any feedback, suggestions, or improvements are always appreciated!
+
+Happy cracking! 🔒💻
 
 
 
