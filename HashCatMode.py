@@ -10,7 +10,7 @@ hashcat_modes = {
     "HMAC-MD5 (key = $pass)": 50,
     "HMAC-MD5 (key = $salt)": 60,
     "md5(utf16le($pass))": 70,
-    "SHA1": 100,
+    "SHA-1": 100,
     "sha1($pass.$salt)": 110,
     "sha1($salt.$pass)": 120,
     "sha1(utf16le($pass).$salt)": 130,
