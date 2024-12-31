@@ -32,7 +32,7 @@ This Python script helps identify the hash type and suggests the appropriate **H
     ```bash
     python3 HashCatMode.py
     ```
-![Preview of Hashcat Mode Finder]
+## Preview of Hashcat Mode Finder:
 
 ![HashCatFirstPic](https://github.com/user-attachments/assets/62604dc1-286e-40e4-9ae9-b860c1821fec)
 
