@@ -35,7 +35,8 @@ This Python script helps identify the hash type and suggests the appropriate **H
     ```
 ## Preview of Hashcat Mode Finder:
 ![HashCatPreview2](https://github.com/user-attachments/assets/502c8730-417e-492a-bd87-c548a6a6e8d5)
-![HashCatPreview1](https://github.com/user-attachments/assets/75c686ce-949d-4056-891e-177d4475a493)
+
+![HashCatPreview1](https://github.com/user-attachments/assets/d725de66-b010-4f17-819f-c2d47afe78b1)
 
 
 
