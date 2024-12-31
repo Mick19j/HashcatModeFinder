@@ -9,16 +9,21 @@ This Python script helps identify the hash type and suggests the appropriate **H
 
 ## Installation:
 
-### For all users:
+### For Linux users:
 1. Clone the repository.
 2. Install required dependencies:
     ```bash
     pip install hashid
     ```
 
+3. Run the script:
+    ```bash
+    python3 HashCatMode.py
+    ```
+
 ### For Windows users (using CMD or PowerShell):
 1. Open **CMD** or **PowerShell** as Administrator.
-2. Install **Hashid** using pip:
+2. Install **Hashid** using **pip**:
     ```bash
     pip install hashid
     ```
