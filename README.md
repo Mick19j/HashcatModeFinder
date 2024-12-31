@@ -5,6 +5,7 @@ This Python script helps identify the hash type and suggests the appropriate **H
 ## Features:
 - Detects common hash types like MD5, SHA-1, and more using **Hashid**.
 - Automatically suggests the most likely **Hashcat mode** based on the hash type.
+- Displays the appropriate Hashcat command syntax ready for use.
 - Simple and easy-to-use interface for users to enter their hash and get results.
 
 ## Installation:
