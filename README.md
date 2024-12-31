@@ -8,12 +8,22 @@ This Python script helps identify the hash type and suggests the appropriate **H
 - Simple and easy-to-use interface for users to enter their hash and get results.
 
 ## Installation:
+
+### For all users:
 1. Clone the repository.
 2. Install required dependencies:
     ```bash
     pip install hashid
     ```
-3. Run the script:
+
+### For Windows users (using CMD or PowerShell):
+1. Open **CMD** or **PowerShell** as Administrator.
+2. Install **Hashid** using pip:
+    ```bash
+    pip install hashid
+    ```
+
+3. After installation, you can run the script:
     ```bash
     python3 HashCatMode.py
     ```
