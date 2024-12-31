@@ -34,6 +34,11 @@ This Python script helps identify the hash type and suggests the appropriate **H
     python3 HashCatMode.py
     ```
 ## Preview of Hashcat Mode Finder:
+![HashCatPreview1](https://github.com/user-attachments/assets/b0d1eecd-207f-48a4-8068-1ef333996159)
+
+![HashCatPreview2](https://github.com/user-attachments/assets/0b541634-8614-4bb7-990d-885b233c1e09)
+
+
 
 
 
