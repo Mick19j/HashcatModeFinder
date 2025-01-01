@@ -15,10 +15,6 @@ This Python script helps identify the hash type and suggests the appropriate **H
 2. Install required dependencies:
     ```bash
     pip install hashid
-    
-    OR
-    
-    sudo apt install hashid
     ```
 
 3. Run the script:
