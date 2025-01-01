@@ -10,11 +10,15 @@ This Python script helps identify the hash type and suggests the appropriate **H
 
 ## Installation:
 
-### For Linux users:
+### For Linux Users:
 1. Clone the repository.
-2. Install required dependencies:
+2. Install the required dependencies:
     ```bash
     pip install hashid
+    ```
+    **OR**, for Debian-based distributions like Ubuntu or Kali, you can use:
+    ```bash
+    sudo apt install hashid
     ```
 
 3. Run the script:
