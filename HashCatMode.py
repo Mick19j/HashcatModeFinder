@@ -39,7 +39,7 @@ hashcat_modes = {
     "HMAC-SHA256 (key = $pass)": 1450,
     "HMAC-SHA256 (key = $salt)": 1460,
     "sha256(utf16le($pass))": 1470,
-    "descrypt, DES (Unix), Traditional DES": 1500,
+    "DES (Unix)": 1500,
     "Apache $apr1$ MD5, md5apr1, MD5 (APR) 2": 1600,
     "SHA2-512": 1700,
     "sha512($pass.$salt)": 1710,
