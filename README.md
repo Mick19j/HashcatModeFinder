@@ -11,7 +11,7 @@ This Python script helps identify the hash type and suggests the appropriate **H
 ## Installation:
 
 ### For Linux Users:
-1. Clone the repository git clone https://github.com/Mick19j/HashcatModeFinder.git
+1. Clone the repository: git clone https://github.com/Mick19j/HashcatModeFinder.git
 2. Install the required dependencies:
     ```bash
     pip install hashid
