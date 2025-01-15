@@ -10,6 +10,8 @@ This Python script helps identify the hash type and suggests the appropriate **H
 
 ## Installation:
 
+git clone https://github.com/Mick19j/HashcatModeFinder.git
+
 ### For Linux Users:
 1. Clone the repository.
 2. Install the required dependencies:
